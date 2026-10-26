@@ -3,7 +3,7 @@
 I’m Viktoria, a **software engineering student** based in Málaga, Spain.
 * 🎓 I’m studying software development at 42 Málaga.
 * 💻 I’m collaborating at Previdian - a cybersecurity startup.
-* 🔭 I’m currently working on [Codexion](https://github.com/viktoriaslp/42_codexion) project from the School 42.
+* 🔭 I’m currently working on Pac-Man project from the School 42.
 * 🌱 I’m learning more about Python, algorithms, networking, and databases.
 
 My favorite 42 projects so far have been [Push_swap](https://github.com/viktoriaslp/42_push_swap) and [Fly-in](https://github.com/viktoriaslp/fly-in), especially because I enjoy solving algorithmic problems and working with data structures.
